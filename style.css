@@ -1,6 +1,7 @@
 body {
   background-color: #ee8300;
-  color: white;
+  /* background-image: url("background.jpg"); */
+
   margin: 0;
 }
 h1 {
@@ -28,16 +29,18 @@ button {
   color: red;
   cursor: pointer;
 }
-img {
+.dice-img {
   border-radius: 10%;
   width: 100%;
   height: 100%;
-  transition: all 1.5s;
+  /* transition: all 1.5s; */
+  /* filter: invert(95%); */
+  filter: hue-rotate(295deg);
 }
+
 .background-img {
   width: 100vw;
   height: 100vh;
-  border-radius: 0%;
 }
 
 .container {
