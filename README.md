@@ -1,2 +1,2 @@
 # Dice-App (not responsive)
-Page Link : https://happycloud250.github.io/Dice-App/
+Page Link : https://aungpyaesoneshan.github.io/Dice-App/
